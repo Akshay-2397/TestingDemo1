@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-
+//ADDED NEW COMMENT
 namespace ORMFrameWork.Models
 {
     [Table("emp10")]
